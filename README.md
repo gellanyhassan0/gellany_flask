@@ -12,4 +12,4 @@ second step :
   
 third step :
   
-<code>localhost:56733 </code><br>
+<code>http://localhost:56733 </code><br>
