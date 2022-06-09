@@ -12,4 +12,13 @@ second step :
   
 third step :
   
+<code>sudo docker ps
+CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS         PORTS                            NAMES
+0849a55b5228   docker.test   "/entrypoint.sh /sta…"   12 seconds ago   Up 3 seconds   443/tcp, 0.0.0.0:56733->80/tcp   docker.test
+</code><br>  
+  
 <code>http://localhost:56733 </code><br>
+<code>docker stop 0849a55b5228</code><br>
+<code>sudo docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+</code><br>
