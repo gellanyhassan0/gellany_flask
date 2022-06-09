@@ -8,7 +8,7 @@ second step :
 <code>git clone https://github.com/gellanyhassan0/gellany_flask.git</code><br>
 <code>cd gellany_flask</code><br>
 <code>chmod +x start.sh</code><br>
-<code>./install</code><br>
+<code>./start.sh</code><br>
   
 third step :
   
